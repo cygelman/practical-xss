@@ -80,3 +80,5 @@ It's important to show a POC of an extension that detects a crypto mining script
 ###### References
 1. https://pentest-tools.com/blog/xss-attacks-practical-scenarios/
 2. https://github.com/chentetran/xss-keylogger/blob/master/keylogscript.html
+<br/><br/>
+**EY Cyber - Hacktics team**
